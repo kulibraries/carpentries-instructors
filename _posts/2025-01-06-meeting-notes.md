@@ -2,7 +2,7 @@
 title: "January 6, 2025 Meeting Notes"
 ---
 ### Carpentries Instructors’ meeting
-- Monday, January 6, 2024
+- Monday, January 6, 2025
 - 9:00-10:00 AM
 
 ### Present:  
